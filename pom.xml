@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.disVaadin</groupId>
-    <artifactId>Practica2</artifactId>
+    <artifactId>Practica2Ext</artifactId>
     <version>1.0-Extraordinaria</version>
     <packaging>jar</packaging>
-    <name>Practica2</name>
+    <name>Practica2Ext</name>
 
 
     <properties>
@@ -76,6 +76,12 @@
                 <configuration>
                     <mainClass>com.disVaadin.Practica2Ext.Practica2ExtApplication</mainClass>
                 </configuration>
+            </plugin>
+
+            <plugin>
+                <groupId>org.eclipse.jetty</groupId>
+                <artifactId>jetty-maven-plugin</artifactId>
+                <version>9.3.9.v20160517</version>
             </plugin>
 
             <!-- Heroku Maven Plugin Configuration -->
