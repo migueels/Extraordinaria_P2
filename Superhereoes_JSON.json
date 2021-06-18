@@ -1,0 +1,339 @@
+{
+  "Heroe": {
+    "Superheroes": {
+      "Superheroe": [
+        {
+          "Nombre": "Stephen Vincent",
+          "procedencia": "Terrestre",
+          "genero": "hombre",
+          "Habilidades": {
+            "Habilidad": [
+              {
+                "Tipo": "Sobrenatural",
+                "Definicion": "Puede crear ilusiones y proyecciones astrales"
+              },
+              {
+                "Tipo": "Sobrenatural",
+                "Definicion": "Comunicación a traves de la mente"
+              }
+            ]
+          },
+          "id": 1,
+          "Batallas": {
+            "Batalla": [
+              {
+                "Fecha_comienzo": 2019,
+                "Fecha_fin": 2019,
+                "Lugar": "Socovia"
+              },
+              {
+                "Fecha_comienzo": 2020,
+                "Fecha_fin": 2020,
+                "Lugar": "La Tierra"
+              }
+            ]
+          },
+          "IdentidadS": "Dr. Strange"
+        },
+        {
+          "Nombre": "Thor",
+          "procedencia": "extraterrestre",
+          "genero": "hombre",
+          "Habilidades": {
+            "Habilidad": [
+              {
+                "Tipo": "Natural",
+                "Definicion": "Superfuerza que loconvierte en el mas fuerte de asgard y universo"
+              },
+              {
+                "Tipo": "SObrenatural",
+                "Definicion": "Dios del trueno"
+              },
+              {
+                "Tipo": "Sobrenatural",
+                "Definicion": "Capacidad de poder volar a gran velocidad"
+              }
+            ]
+          },
+          "id": 2,
+          "Batallas": {
+            "Batalla": [
+              {
+                "Fecha_comienzo": 2017,
+                "Fecha_fin": 2017,
+                "Lugar": "Nueva York"
+              },
+              {
+                "Fecha_comienzo": 2019,
+                "Fecha_fin": 2019,
+                "Lugar": "Asgard"
+              },
+              {
+                "Fecha_comienzo": 2018,
+                "Fecha_fin": 2018,
+                "Lugar": "Wakanda"
+              },
+              {
+                "Fecha_comienzo": 2020,
+                "Fecha_fin": 2020,
+                "Lugar": "La Tierra"
+              }
+            ]
+          },
+          "IdentidadS": "Thor"
+        },
+        {
+          "Nombre": "T\u0027Challa",
+          "procedencia": "Terrestre",
+          "genero": "hombre",
+          "Habilidades": {
+            "Habilidad": [
+              {
+                "Tipo": "Natural",
+                "Definicion": ""
+              },
+              {
+                "Tipo": "Natural",
+                "Definicion": ""
+              },
+              {
+                "Tipo": "Natural",
+                "Definicion": "Traje hecho de vibranium que le proporciona mas resistencia y unos guantes que generan dagas de energia"
+              }
+            ]
+          },
+          "id": 3,
+          "Batallas": {
+            "Batalla": [
+              {
+                "Fecha_comienzo": 2019,
+                "Fecha_fin": 2019,
+                "Lugar": "Aeropuerto"
+              },
+              {
+                "Fecha_comienzo": 2018,
+                "Fecha_fin": 2018,
+                "Lugar": "Wakanda"
+              },
+              {
+                "Fecha_comienzo": 2020,
+                "Fecha_fin": 2020,
+                "Lugar": "La Tierra"
+              }
+            ]
+          },
+          "IdentidadS": "Black Panther"
+        },
+        {
+          "Nombre": "Bruce",
+          "procedencia": "Terrestre",
+          "genero": "hombre ",
+          "Habilidades": {
+            "Habilidad": [
+              {
+                "Tipo": "Sobrenatural",
+                "Definicion": "Superfuerza"
+              },
+              {
+                "Tipo": "Sobrenatural",
+                "Definicion": "Super saltos"
+              },
+              {
+                "Tipo": "sobrenatural",
+                "Definicion": "Golpes"
+              }
+            ]
+          },
+          "id": 4,
+          "Batallas": {
+            "Batalla": [
+              {
+                "Fecha_comienzo": 2017,
+                "Fecha_fin": 2017,
+                "Lugar": "Asgard"
+              },
+              {
+                "Fecha_comienzo": 2015,
+                "Fecha_fin": 2015,
+                "Lugar": "Sokovia"
+              },
+              {
+                "Fecha_comienzo": 2013,
+                "Fecha_fin": 2103,
+                "Lugar": "New York"
+              }
+            ]
+          },
+          "IdentidadS": "Hulk"
+        },
+        {
+          "Nombre": "Thanos",
+          "procedencia": "Extraterrestre",
+          "genero": "hombre",
+          "Habilidades": {
+            "Habilidad": [
+              {
+                "Tipo": "fuerza",
+                "Definicion": "superfuerza \u003e thor y hulk"
+              },
+              {
+                "Tipo": "teletransporte",
+                "Definicion": "capaz de teletransportarse cin las gemas"
+              }
+            ]
+          },
+          "id": 5,
+          "Batallas": {
+            "Batalla": [
+              {
+                "Fecha_comienzo": 2019,
+                "Fecha_fin": 2019,
+                "Lugar": "La tierra"
+              },
+              {
+                "Fecha_comienzo": 2020,
+                "Fecha_fin": 2020,
+                "Lugar": "Universo"
+              }
+            ]
+          },
+          "IdentidadS": "Thanos"
+        },
+        {
+          "Nombre": "Thanos",
+          "procedencia": "extraterrestre",
+          "genero": "hombre",
+          "Habilidades": {
+            "Habilidad": [
+              {
+                "Tipo": "sobrenatural",
+                "Definicion": "mucha fuerza \u003e thor y hulk"
+              },
+              {
+                "Tipo": "sobrenatural",
+                "Definicion": "super inteligencia"
+              }
+            ]
+          },
+          "id": 6,
+          "Batallas": {
+            "Batalla": [
+              {
+                "Fecha_comienzo": 2019,
+                "Fecha_fin": 2019,
+                "Lugar": "universo"
+              },
+              {
+                "Fecha_comienzo": 2020,
+                "Fecha_fin": 2020,
+                "Lugar": "la tierra"
+              }
+            ]
+          },
+          "IdentidadS": "Thanos"
+        },
+        {
+          "Nombre": "miguel",
+          "procedencia": "terrestre",
+          "genero": "hombre",
+          "Habilidades": {
+            "Habilidad": [
+              {
+                "Tipo": "natural",
+                "Definicion": "estudiar"
+              },
+              {
+                "Tipo": "natural",
+                "Definicion": "aprobar"
+              },
+              {
+                "Tipo": "natural",
+                "Definicion": "suspender"
+              }
+            ]
+          },
+          "id": 7,
+          "Batallas": {
+            "Batalla": [
+              {
+                "Fecha_comienzo": 2018,
+                "Fecha_fin": 2018,
+                "Lugar": "ufv"
+              },
+              {
+                "Fecha_comienzo": 2020,
+                "Fecha_fin": 2020,
+                "Lugar": "ufv"
+              }
+            ]
+          },
+          "IdentidadS": "salas"
+        },
+        {
+          "Nombre": "liam",
+          "procedencia": "terrestre",
+          "genero": "hombre ",
+          "Habilidades": {
+            "Habilidad": [
+              {
+                "Tipo": "natural",
+                "Definicion": "aprobar"
+              },
+              {
+                "Tipo": "natural",
+                "Definicion": "estudiar"
+              },
+              {
+                "Tipo": "natural",
+                "Definicion": "suspender"
+              }
+            ]
+          },
+          "id": 8,
+          "Batallas": {
+            "Batalla": [
+              {
+                "Fecha_comienzo": 2020,
+                "Fecha_fin": 2020,
+                "Lugar": "ufv"
+              },
+              {
+                "Fecha_comienzo": 2021,
+                "Fecha_fin": 2021,
+                "Lugar": "ufv"
+              }
+            ]
+          },
+          "IdentidadS": "liam"
+        },
+        {
+          "Nombre": "Bruce wayne",
+          "procedencia": "Terrestre",
+          "genero": "hombre ",
+          "Habilidades": {
+            "Habilidad": {
+              "Tipo": "natural",
+              "Definicion": "es muy rico"
+            }
+          },
+          "id": 9,
+          "Batallas": {
+            "Batalla": [
+              {
+                "Fecha_comienzo": 2010,
+                "Fecha_fin": 2012,
+                "Lugar": "Gotham"
+              },
+              {
+                "Fecha_comienzo": 2019,
+                "Fecha_fin": 2019,
+                "Lugar": "eeuu"
+              }
+            ]
+          },
+          "IdentidadS": "batman"
+        }
+      ]
+    }
+  }
+}
