@@ -9,17 +9,13 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.disVaadin</groupId>
-<<<<<<< HEAD
     <artifactId>Practica2</artifactId>
     <version>2.0-ExtFinal</version>
     <packaging>jar</packaging>
     <name>Practica2</name>
-=======
-    <artifactId>Practica2Ext</artifactId>
-    <version>1.0-Extraordinaria</version>
-    <packaging>jar</packaging>
-    <name>Practica2Ext</name>
->>>>>>> 9d4ebe660f1e66f2a10e4bd912afd978845e90b0
+
+
+
 
 
     <properties>
@@ -80,10 +76,7 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-<<<<<<< HEAD
                 <version>${project.parent.version}</version>
-=======
->>>>>>> 9d4ebe660f1e66f2a10e4bd912afd978845e90b0
                 <configuration>
                     <mainClass>com.disVaadin.Practica2Ext.Practica2ExtApplication</mainClass>
                 </configuration>
