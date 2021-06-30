@@ -7,7 +7,6 @@ pipeline {
 
 			steps {
 				echo 'Haciendo el build del proyecto...'
-				./mvnw spring-boot:run
 				}
 		}
 		
