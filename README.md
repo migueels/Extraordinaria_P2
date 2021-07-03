@@ -39,3 +39,10 @@ Para la ejecucion y buen funcionameinto de la aplicacion seán necesarios los si
 
 - IDE que pueda ser Eclipse o Intellij. En este caso se ha usado Intellij IDE y Visual Studio Code como editor de texto.
 
+
+*******************
+* Jenkins
+*******************
+
+
+
